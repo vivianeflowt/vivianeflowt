@@ -1,4 +1,4 @@
-![GitHub followers](https://img.shields.io/github/followers/vivianeflowt?style=social)
+![GitHub followers](https://img.shields.io/github/followers/vivianeflowt?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/vivianeflowt?style=social)
 
 <h1 align="center">Hi, I'm Viviane Florido</h1>
 <h3 align="center">A backend developer girl from Brazil</h3>
